@@ -1,0 +1,6 @@
+{
+  "name": "سوق الجمعة - العراق",
+  "description": "منصة عراقية متكاملة لبيع وشراء المنتجات الجديدة والمستعملة، تدعم المتاجر والطلبات والمحادثات المباشرة مع لوحة تحكم إدارية شاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
